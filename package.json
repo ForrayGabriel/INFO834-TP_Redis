@@ -15,5 +15,22 @@
   "bugs": {
     "url": "https://github.com/ForrayGabriel/INFO834-TP_Redis/issues"
   },
-  "homepage": "https://github.com/ForrayGabriel/INFO834-TP_Redis#readme"
+  "homepage": "https://github.com/ForrayGabriel/INFO834-TP_Redis#readme",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "bcrypt-nodejs": "^0.0.3",
+    "body-parser": "^1.19.0",
+    "chalk": "^4.1.0",
+    "compression": "^1.7.4",
+    "connect-mongo": "^4.6.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "express-session": "^1.17.2",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.10.0",
+    "morgan": "^1.10.0",
+    "passport": "^0.5.2",
+    "passport-jwt": "^4.0.0",
+    "winston": "^3.3.3"
+  }
 }
