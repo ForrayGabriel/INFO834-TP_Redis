@@ -1,0 +1,19 @@
+{
+  "name": "info834-tp_redis",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ForrayGabriel/INFO834-TP_Redis.git"
+  },
+  "author": "Gabriel Forray",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ForrayGabriel/INFO834-TP_Redis/issues"
+  },
+  "homepage": "https://github.com/ForrayGabriel/INFO834-TP_Redis#readme"
+}
